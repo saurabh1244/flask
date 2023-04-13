@@ -2,3 +2,6 @@ Flask
 numpy
 sklearn
 gunicorn
+jsonify
+request
+pickle
